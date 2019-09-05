@@ -6,17 +6,15 @@ output: html_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_knit$set(eval = TRUE,'/declanfranklin' )
+knitr::opts_knit$set(eval = TRUE)
 ```
 
 
 
-## About Team
+## About the Team
 
 Team Picture:
-```{r}
-#![Alt text](/Users/declanfranklin/Documents/images/tufte.book.jpg) 
-```
+
 
 
 Team Goals:   
@@ -27,8 +25,10 @@ As a team
 Picture:
 
 
- 
-
-
-
+Goal for this Course:
 My overarching goal is to gain a strong feeling of comfortablility while using RStudio. I want put my use my experince with RStudio as a means of computing data that hopfully the world can use one day.
+
+After College Plans:
+
+
+Personal Comment: 
