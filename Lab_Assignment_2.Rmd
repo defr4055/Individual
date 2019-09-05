@@ -1,0 +1,34 @@
+---
+title: 'Lab Assignment 2'
+author: "Team P-body"
+date: "9/4/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_knit$set(eval = TRUE,'/declanfranklin' )
+```
+
+
+
+## About Team
+
+Team Picture:
+```{r}
+#![Alt text](/Users/declanfranklin/Documents/images/tufte.book.jpg) 
+```
+
+
+Team Goals:   
+As a team
+
+---
+### Declan Franklin (Section 001)
+Picture:
+
+
+ 
+
+
+
+My overarching goal is to gain a strong feeling of comfortablility while using RStudio. I want put my use my experince with RStudio as a means of computing data that hopfully the world can use one day.
